@@ -1,0 +1,9 @@
+body { color: #fff; background: #182A33; }
+
+.topnav { overflow: hidden; background-color: #182A33; }
+
+.topnav a { float: left; display: block; color: #BFBABA; text-align: center; padding: 14px 16px; text-decoration: none; }
+
+.topnav a:hover { background-color: #BFBABA; color: #182A33; }
+
+/*# sourceMappingURL=styles.css.map */
