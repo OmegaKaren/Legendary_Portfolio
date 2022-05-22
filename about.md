@@ -2,7 +2,4 @@
 layout: default
 title: about
 ---
-
-#About page
-
-This is the about page :)
+<div class="textleft"> hello moto </div>
