@@ -1,0 +1,11 @@
+I"ð<div class="w3-cell-row">
+    &lt;div class="w3-container w3-cell w3-green" style="width:75%&gt;
+        <div class="w3-left-align"><p> Hi, I'm Gabriel Mulero, a multi-disciplined computer science student, particularly focused on python, sql, C++, and front end web development.   My goal is to use this website to showcase my skillsets to anyone who is interested and document my learning journey to help others who are interesting in pursuing a career in software engineering.  </p></div>
+    </div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;div class="w3-container w3-cell w3-white"&gt;
+    &lt;p&gt; another one &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;        
+</code></pre></div></div>
+
+:ET

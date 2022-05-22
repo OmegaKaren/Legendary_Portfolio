@@ -1,5 +1,6 @@
 body {
     background-color: #182A33;
+    padding: 2em;
 }
 
 .topnav {
@@ -23,10 +24,19 @@ body {
 }
 
 div {
-    color: #BFBABA;
+    color: #182A33;
     text-align: center;
 }
 
 .textleft {
-    text-align: center;
+    text-align: left;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+.text-color {
+    color: #BFBABA;
 }

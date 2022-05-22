@@ -1,0 +1,12 @@
+I"y<div class="w3-content" style="max-width:1100px">
+    <div class="w3-col m6 w3-padding-large">
+        <h1> About Me </h1>
+    </div>    
+    <div class="w3-row w3-padding-64">
+        <div class="w3-col m6 w3-padding-large w3-hide-small">
+            <img src="assets\images\1603833561597.jpg" class="w3-round w3-image w3-opacity-min" />
+        </div>    
+    </div>
+</div>
+
+:ET
