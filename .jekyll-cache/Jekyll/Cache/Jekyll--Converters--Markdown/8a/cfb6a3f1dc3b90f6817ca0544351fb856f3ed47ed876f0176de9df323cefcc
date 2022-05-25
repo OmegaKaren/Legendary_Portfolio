@@ -1,7 +1,4 @@
---- 
-layout: default
-title: About Me
----
+I"ª
 <div class="w3-content" style="max-width:1100px">
     <div class="w3-row w3-padding-64">
         <div class="w3-col m6 w3-padding-large">
@@ -9,7 +6,7 @@ title: About Me
             <p class="text-color"> I am a 24 year old military veteran with five years of network engineering experience. I am a full-time student who currently lives in Fort Worth, Texas. I am currently looking for internships while I finish up my college degree to get hands on professional exprierence.</p>
         </div>  
         <div class="w3-col m6 w3-padding-large w3-hide-small">
-            <img src="assets\images\1603833561597.jpg" class="w3-round w3-image w3-opacity-min">
+            <img src="assets\images\1603833561597.jpg" class="w3-round w3-image w3-opacity-min" />
         </div>             
     </div>
 <div class="w3-container">
@@ -20,24 +17,24 @@ title: About Me
       <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding text-color">Experience</div>
     </a>
     <a href="javascript:void(0)" onclick="showSkillz(event, 'ToolsandTechnology');">
-      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding text-color">Tools and Technology</div>
+      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding">Tools and Technology</div>
     </a>
     <a href="javascript:void(0)" onclick="showSkillz(event, 'skills');">
-      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding text-color">Skills</div>
+      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding">Skills</div>
     </a>
   </div>
 
-  <div id="Experience" class="w3-container skills text-color" style="display:none">
+  <div id="Experience" class="w3-container skills" style="display:none">
     <h2>Experience</h2>
     <p>Experience is the capital city of England.</p>
   </div>
 
-  <div id="ToolsandTechnology" class="w3-container skills text-color" style="display:none">
+  <div id="ToolsandTechnology" class="w3-container skills" style="display:none">
     <h2>Tools and Skills</h2>
     <p>Paris is the capital of France.</p> 
   </div>
 
-  <div id="skills" class="w3-container skills text-color" style="display:none">
+  <div id="skills" class="w3-container skills" style="display:none">
     <h2>skills</h2>
     <p>Tokyo is the capital of Japan.</p>
   </div>
@@ -59,5 +56,6 @@ function showSkillz(evt, Portfolio) {
 }
 </script>
 
-</div>          
 </div>
+<p>&lt;/div&gt;</p>
+:ET
