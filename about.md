@@ -42,6 +42,7 @@ title: About Me
     <h2 class="w3-center">Tools and Skills</h2>
     <ul>
         <li class="w3-padding"><b>Python</b></li>
+        <li class="w3-padding"><b>SQL</b></li>
         <li class="w3-padding"><b>C++</b></li>
         <li class="w3-padding"><b>JavaScript</b></li>
         <li class="w3-padding"><b>HTML</b></li>
