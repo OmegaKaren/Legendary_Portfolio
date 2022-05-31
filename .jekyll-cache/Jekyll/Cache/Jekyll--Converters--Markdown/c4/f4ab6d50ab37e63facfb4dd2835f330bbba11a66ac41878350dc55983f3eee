@@ -1,25 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="assets/css/styles.css">
-    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-    <title>About Me</title>
-  </head>
-  <body>
-    
-    
-    <div class="topnav">
-      <nav>
-    <a href="index.html"> Home </a>
-    <a href="about.html"> About </a>
-    <a href="https://github.com/OmegaKaren"> <img src="assets\images\GitHub-Mark-Light-32px.png" width="15px">OmegaKaren</a>
-    <a href="https://twitter.com/Gabe_Mulero"> <img src="assets\images\2021 Twitter logo - white.png" width="15px"> Gabe_Mulero</a>
-</nav>
-    </div>  
-    <div class="w3-container">
-      <html>
+I"<html>
 <div class="w3-content" style="max-width:1100px">
     <div class="w3-row w3-padding-64">
         <div class="w3-col m6 w3-padding-large">
@@ -103,11 +82,4 @@ function showSkillz(evt, Portfolio) {
 </div>          
 &lt;/div&gt;
 </html>
-
-    </div>
-    
-    
-    
- 
-  </body>
-</html>
+:ET

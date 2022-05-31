@@ -55,7 +55,7 @@ title: About Me
   </div>
 
   <div id="skills" class="w3-container skills text-color w3-animate-bottom" style="display:none">
-    <h2 class="w3-center">skills</h2>
+    <h2 class="w3-center">Skills</h2>
     <ul>
         <li class="w3-padding"><b>Computer Programming and Coding</b></li>
         <li class="w3-padding"><b>Object-Oriented Design</b></li>
