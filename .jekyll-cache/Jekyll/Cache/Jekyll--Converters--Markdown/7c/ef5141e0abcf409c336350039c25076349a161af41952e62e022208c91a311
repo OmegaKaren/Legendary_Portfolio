@@ -1,0 +1,9 @@
+I"-<h1 id="how-to-start-a-portfolio-website-with-github-pages-and-jekyll">How to start a portfolio website with GitHub Pages and Jekyll</h1>
+
+<p><img src="assets\images\jekyll_github.webp" alt="jekyll and github pages" /></p>
+
+<p>Starting your journey as a software engineer can be a daunting task to say the least.  One of the best places to start is building a portfolio website to showcase your skills to potential employers. Luckily, it is relatively easy to host a website regardless of your experience level with <a href="https://pages.github.com/">GitHub Pages</a> and <a href="https://jekyllrb.com/">Jekyll static site generator</a>. GitHub allows for an easy way to host all your files for your website in a single place while also not requiring you to configure any servers. Jekyll takes these files hosted on your github repository and creates a simple static website that you can customize as much or as little as you would like</p>
+
+<h1 id="create-a-github-account-and-repository">Create a <a href="https://github.com">GitHub Account and repository</a></h1>
+
+:ET
