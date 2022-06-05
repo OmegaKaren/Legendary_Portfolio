@@ -1,24 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="assets/css/styles.css">
-    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-    <title>Jekyll Project</title>
-  </head>
-  <body>   
-    
-    <div class="topnav">
-      <nav>
-    <a href="index.html"> Home </a>
-    <a href="about.html"> About </a>
-    <a href="https://github.com/OmegaKaren"> <img src="assets\images\GitHub-Mark-Light-32px.png" width="15px">OmegaKaren</a>
-    <a href="https://twitter.com/Gabe_Mulero"> <img src="assets\images\2021 Twitter logo - white.png" width="15px"> Gabe_Mulero</a>
-</nav>
-    </div>  
-    <div class="w3-container w3-content w3-center w3-padding-64 text-color" style="max-width: 2000px;">
-      <h1 id="how-to-start-a-portfolio-website-with-github-pages-and-jekyll">How to start a portfolio website with GitHub Pages and Jekyll</h1>
+I"…<h1 id="how-to-start-a-portfolio-website-with-github-pages-and-jekyll">How to start a portfolio website with GitHub Pages and Jekyll</h1>
 
 <p><img src="assets\images\jekyll_github.webp" alt="jekyll and github pages" /></p>
 
@@ -32,7 +12,7 @@
 
 <p>When creating your new repository, name it whatever you like (note: The repository name will be the name and url of your website unless you specifically create a custom URL)</p>
 
-<p>Once you create your new repository, you will see this screen (ignore the red box for now, you will have to come back to this to inilize your repository)</p>
+<p>Once you create your new repository, you will see this screen</p>
 
 <p><img src="assets\images\Github_setup.png" alt="GitHub repository setup" /></p>
 
@@ -40,7 +20,7 @@
 
 <p>Your first step is to download <a href="https://git-scm.com/">git</a>.</p>
 
-<p>Once you have installed git you see a software called git bash that will be used to interact with your repository. To verify you have the correct version of git installed open up git bash and type <span style="color:red"><code class="language-plaintext highlighter-rouge">git --version</code></span>. My version of git is 2.36.1.windows.1</p>
+<p>Once you have installed git you see a software called git bash that will be used to interact with your repository. To verify you have the correct version of git installed open up git bash and type <code class="language-plaintext highlighter-rouge">git --version</code>. My version of git is 2.36.1.windows.1</p>
 
 <p><img src="assets\images\git_version.png" alt="git version" /></p>
 
@@ -48,7 +28,7 @@
 
 <p>Add your username you created for your GitHub account <span style="color:red"><code class="language-plaintext highlighter-rouge">git config --global user.name "YourName"</code></span></p>
 
-<p>Then add your email you used as well <span style="color:red"><code class="language-plaintext highlighter-rouge">git config --global user.email "TestEmail@example.com"</code></span></p>
+<p>Then add your email you used as well <code class="language-plaintext highlighter-rouge">git config --global user.email "TestEmail@example.com"</code></p>
 
 <p><img src="assets\images\gitusername.png" alt="github username and email config" /></p>
 
@@ -56,17 +36,5 @@
 
 <p><img src="assets\images\git-init.png" alt="git init" /></p>
 
-<p>As you can see I created a directory called /d/test-website and then I initlized git using the <span style="color:red"><code class="language-plaintext highlighter-rouge">git init</code></span> command.</p>
-
-<p>Once your directory is inilized you have to connect git to your repository, if you recall back to the quick setup page right after creating your repository you will see the steps to creating a new repository on the command line. The line you are going to be most interested in is the <span style="color:red"> git remote add origin (insert your URL given to you on your quick setup page)</span>.</p>
-
-<p><img src="assets\images\git-origin.png" alt="git-origin" /></p>
-
-    </div>
-  
-    
-    
-    
-
-  </body>
-</html>
+<p>As you can see I created a directory called /d/test-website and then I initlized git using the <span style="color:red"><code class="language-plaintext highlighter-rouge">git init</code></span> command</p>
+:ET

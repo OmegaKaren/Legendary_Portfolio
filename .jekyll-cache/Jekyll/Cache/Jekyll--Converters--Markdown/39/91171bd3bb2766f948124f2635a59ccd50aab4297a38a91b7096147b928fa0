@@ -1,24 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="assets/css/styles.css">
-    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-    <title>Jekyll Project</title>
-  </head>
-  <body>   
-    
-    <div class="topnav">
-      <nav>
-    <a href="index.html"> Home </a>
-    <a href="about.html"> About </a>
-    <a href="https://github.com/OmegaKaren"> <img src="assets\images\GitHub-Mark-Light-32px.png" width="15px">OmegaKaren</a>
-    <a href="https://twitter.com/Gabe_Mulero"> <img src="assets\images\2021 Twitter logo - white.png" width="15px"> Gabe_Mulero</a>
-</nav>
-    </div>  
-    <div class="w3-container w3-content w3-center w3-padding-64 text-color" style="max-width: 2000px;">
-      <h1 id="how-to-start-a-portfolio-website-with-github-pages-and-jekyll">How to start a portfolio website with GitHub Pages and Jekyll</h1>
+I"³<h1 id="how-to-start-a-portfolio-website-with-github-pages-and-jekyll">How to start a portfolio website with GitHub Pages and Jekyll</h1>
 
 <p><img src="assets\images\jekyll_github.webp" alt="jekyll and github pages" /></p>
 
@@ -59,14 +39,4 @@
 <p>As you can see I created a directory called /d/test-website and then I initlized git using the <span style="color:red"><code class="language-plaintext highlighter-rouge">git init</code></span> command.</p>
 
 <p>Once your directory is inilized you have to connect git to your repository, if you recall back to the quick setup page right after creating your repository you will see the steps to creating a new repository on the command line. The line you are going to be most interested in is the <span style="color:red"> git remote add origin (insert your URL given to you on your quick setup page)</span>.</p>
-
-<p><img src="assets\images\git-origin.png" alt="git-origin" /></p>
-
-    </div>
-  
-    
-    
-    
-
-  </body>
-</html>
+:ET
